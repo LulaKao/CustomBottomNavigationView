@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CusNavTest</string>
+    <string name="index_bottom_bar_home">首頁</string>
+    <string name="index_bottom_bar_dynamic_state">動態</string>
+    <string name="index_bottom_bar_integral">積分</string>
+    <string name="index_bottom_bar_me">我的</string>
+    <string name="index_bottom_bar_scan">掃描</string>
+    <string name="fragment_example_string">範例 %1$s</string>
+</resources>
